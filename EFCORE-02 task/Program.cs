@@ -1,6 +1,6 @@
 ﻿namespace EFCORE_02_task
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
