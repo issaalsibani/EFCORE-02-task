@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="ERD and Mapping/ERD (EFCORE-02 task).png" />
+    <File Path="ERD and Mapping/Mapping (EFCORE-02 task).png" />
+  </Folder>
   <Project Path="EFCORE-02 task/EFCORE-02 task.csproj" />
 </Solution>
