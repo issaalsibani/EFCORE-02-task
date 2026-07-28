@@ -1,4 +1,5 @@
-﻿namespace EFCORE_02_task
+﻿using EFCORE_02_task.Models;
+namespace EFCORE_02_task
 {
     public class Program
     {
