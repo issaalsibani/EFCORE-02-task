@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
+using Microsoft.EntityFrameworkCore;
 
 namespace EFCORE_02_task.Models
 {
+    [PrimaryKey(nameof(ProductId), nameof(OrderId)) ]
     public class OrderProduct
     {
 
